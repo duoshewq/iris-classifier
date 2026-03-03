@@ -110,6 +110,8 @@ print(f"预测品种: {species}, 置信度: {confidence:.2%}")
   - Virginica: 91%
 - **模型特点**: 对 Setosa 和 Versicolor 分类完美，对 Virginica 有少量误判
 
+<img width="634" height="544" alt="image" src="https://github.com/user-attachments/assets/d135a83a-0e63-43ca-855b-e7551b29face" />
+
 ---
 
 ## 💡 核心功能
