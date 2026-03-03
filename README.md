@@ -151,5 +151,22 @@ print(f"预测品种: {species}, 置信度: {confidence:.2%}")
 
 ---
 
+## 快速开始
+
+1. 克隆仓库
+   ```bash
+   git clone https://github.com/duoshewq/iris-classifier.git
+   ```
+
+2. 安装依赖
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. 运行 Jupyter
+   ```bash
+   jupyter notebook iris-classifier.ipynb
+   ```
+
 **作者**: [你的名字]  
 **最后更新**: 2024年
