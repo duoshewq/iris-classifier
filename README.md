@@ -31,7 +31,7 @@ README.md                     # 项目说明文档
 
 - **150 个样本**，3 个品种各 50 个
 - **4 个特征**：
-  - 花萼长度（sepal length）
+萼片长度
   - 花萼宽度（sepal width） 
   - 花瓣长度（petal length）
   - 花瓣宽度（petal width）
